@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">LeiraCafeMenu(2)</string>
+    <string name="app_name">LeiraCafeMenu</string>
+    <string name="pict">Image %1$s</string>
+    <string name="error">Failed to load data.. Connection error</string>
+    <string name="try_again">Try Again</string>
+    <string name="profile">Profile</string>
+    <string name="close">Close</string>
+    <string name="logout">Logout</string>
+    <string name="add_menu">Add Menu</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="price">Price</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
 </resources>
